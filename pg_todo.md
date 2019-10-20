@@ -1,0 +1,1 @@
+1. MVCC - https://en.wikipedia.org/wiki/Multiversion_concurrency_control
