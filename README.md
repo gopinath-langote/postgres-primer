@@ -1,4 +1,4 @@
-- [PG](#pg)
+- [Postgres](#postgres)
   - [Postgresql](#postgresql)
     - [Getting Started with PostgreSQL](#getting-started-with-postgresql)
     - [Querying Data](#querying-data)
@@ -27,7 +27,7 @@
       - [Union](#union)
       - [Intersect](#intersect)
 
-# PG
+# Postgres
 
 ## Postgresql
 
